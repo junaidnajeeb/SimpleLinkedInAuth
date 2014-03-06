@@ -35,7 +35,7 @@ Added a image on the link to make things more 21st century :)
 linkedInAuth/linkedin_login_get_code.php
 --------------
 This do a two step authentication as described in LinkedIn API Docs
-  **First** it will get a status code
-  **Second** it will use that code to authenticate the user.
+-  **First** it will get a status code
+-  **Second** it will use that code to authenticate the user.
   
   
