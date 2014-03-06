@@ -1,6 +1,10 @@
 SimpleLinkedInAuth
 ==================
 
+Prerequisite
+--------------
+Register a LinkedIn App so you have your own **LINKEDIN_API_KEY** and **LINKEDIN_API_SECRET**
+
 Description
 --------------
 This is a basic implementation of how to simply connect to LinkedIn API and authenticate your App users with LinkedIn. No need to write your own custom login feature. 
